@@ -8,7 +8,7 @@ https://github.com/IoTKETI/Mobius
 
 ## Introduction
 KETI의 Mobius 서버에서 몇가지 버그를 수정한 버전
- - dvi생성시 mgo이름 비교 루틴 변경
+ - mgo생성시 mgo이름 비교 루틴 변경
  - dvc생성시 cas 길이값 100으로 변경
  - min, mbs설정시 오동작하는 사항 수정
 
