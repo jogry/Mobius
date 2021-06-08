@@ -1,5 +1,7 @@
 # Mobius
-oneM2M IoT Server Platform
+oneM2M IoT Server Platform  
+원본 소스 경로  
+https://github.com/IoTKETI/Mobius
 
 ## Version
 2.4.x (2.4.42) -> 버그 수정
